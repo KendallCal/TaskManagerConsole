@@ -7,11 +7,11 @@ Este proyecto es una aplicación de consola desarrollada en Java como parte del 
 El sistema de manejo de tareas incluye las siguientes funcionalidades:
 
 1. **Agregar Tareas:** Permite al usuario ingresar la descripción de la tarea, la fecha de vencimiento, el nombre del encargado, el apellido, y muestra los datos de la tarea.
-<img src="Demostración/Ingreso.png" alt="Captura Ingreso" width="300" />
+<img src="Demostración/Ingreso.png" alt="Captura Ingreso" width="350" />
 3. **Ver Tareas:** Muestra una lista de todas las tareas ingresadas.
 <img src="Demostración/Tareas.png" alt="Captura Tareas" width="500" />
 5. **Marcar Tareas como Completadas:** Permite marcar tareas como completadas.
-<img src="Demostración/Completado.png" alt="Captura Completado" width="300" />
+<img src="Demostración/Completado.png" alt="Captura Completado" width="350" />
 7. **Eliminar Tareas:** Permite eliminar tareas de la lista.
 8. **Filtrar Tareas:** Permite filtrar las tareas por estado o por fecha de vencimiento.
 
